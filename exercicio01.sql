@@ -1,0 +1,1 @@
+select * from tb_classe where marca = "Ada";
